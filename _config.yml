@@ -10,7 +10,7 @@ title: Naveen M V
 email: naveenmv7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is made by Naveen M V. It consists of his ideas, works and thoughts.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://naveenmv.com" # the base hostname & protocol for your site
 twitter_username: IamNaveenMV
 github_username:  Naveen97
